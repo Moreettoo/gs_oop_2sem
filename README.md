@@ -10,7 +10,7 @@ Global Solution 2º/2026 – Object-Oriented Programming (FIAP) – tema Citizen
 |---|---|
 | Enzo Moretto | 563655 |
 | Lucas Scovini | 563355 |
-| João Ivo | 562287 |
+| João Ivo | [preencher] |
 
 ## O que o sistema faz
 
